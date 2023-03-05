@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/MartinBernstorff/swift-python-cookiecutter",
+  "commit": "01419a343b2847fbe5e3eb2f3a8af10567490ea8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "metaflow-testing",
+      "package_name": "metaflow_testing",
+      "friendly_name": "Metaflow Testing",
+      "author": "Martin Bernstorff",
+      "email": "martinbernstorfff@gmail.com",
+      "github_user": "MartinBernstorff",
+      "version": "0.0.0",
+      "copyright_year": "2023",
+      "license": "MIT",
+      "_copy_without_render": [
+        "*.github"
+      ],
+      "_template": "https://github.com/MartinBernstorff/swift-python-cookiecutter"
+    }
+  },
+  "directory": null
+}
