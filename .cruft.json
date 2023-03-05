@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/MartinBernstorff/swift-python-cookiecutter",
-  "commit": "01419a343b2847fbe5e3eb2f3a8af10567490ea8",
+  "commit": "87beb836de08130b2d03e688c2e2f27af11c86af",
   "checkout": null,
   "context": {
     "cookiecutter": {
